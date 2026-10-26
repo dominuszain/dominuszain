@@ -10,7 +10,7 @@ I work on computational astrophysics: thermonuclear reaction rates, emission-lin
 |---|---|---|
 | [INFERNUS](https://github.com/dominuszain/ActGalNuc) | Classifies ~10,000 SDSS DR18 emission-line galaxies with BPT and WHAN diagnostics, cross-matches with WISE, and estimates electron density and black hole mass. | Python, Astropy, PyNeb |
 | [UMBRA](https://github.com/dominuszain/CompAstroBio) | Compares BLS and a ResNet-1D CNN for detecting exoplanet transits in simulated PLATO light curves (96.7% CNN accuracy). | Python, PyTorch |
-| [ICARUS](https://github.com/dominuszain/ICARUS) | Maxwellian-averaged (n,γ) reaction rates for heavy nuclei. | Python, Fortran |
+| [ICARUS](https://github.com/dominuszain/ICARUS) | Maxwellian-averaged (n,γ) cross sections and thermonuclear reaction rates for heavy nuclei. | Python, Fortran |
 
 ## Numerical physics
 
