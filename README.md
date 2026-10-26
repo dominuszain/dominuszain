@@ -46,7 +46,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=WwzP4rAA
 | 2026 | **Z. Ul Abideen**. "Classification of Emission-Line Galaxies with SDSS and WISE." ResearchGate. [DOI](https://doi.org/10.13140/RG.2.2.18744.71680) |
 | 2026 | **Z. Ul Abideen**. "Deep Learning Detection of Exoplanet Transits in PSLS-Simulated PLATO Light Curves." ResearchGate. [DOI](https://doi.org/10.13140/RG.2.2.31127.74407) |
 | 2026 | **Z. Ul Abideen**. "A Review on Stellar and Interstellar Plasma." ResearchGate. [DOI](https://doi.org/10.13140/RG.2.2.21647.96164) |
-| 2025 | **Z. Ul Abideen**, K. Nabi, A. Kabir. "Refining the 91Zr(n,γ)92Zr Reaction Rate for Stellar Nucleosynthesis." Manuscript. |
+| 2025 | **Z. Ul Abideen**, K. Nabi, A. Kabir. "Refining the 91Zr(n,γ)92Zr Reaction Rate for Stellar Nucleosynthesis." Manuscript. [ResearchGate](https://www.researchgate.net/publication/398039592_Refining_the_91Zrngamma92Zr_Reaction_Rate_for_Stellar_Nucleosynthesis) |
 
 ## Data
 
