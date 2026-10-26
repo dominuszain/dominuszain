@@ -25,7 +25,7 @@ Python · NumPy · SciPy · Astropy · PyNeb · TensorFlow · Fortran · Scilab 
 
 ## Publications and data
 
-- [ICARUS]() (MSc thesis, 2024)
+- [ICARUS]() (Final-year project thesis, 2024)
 - [Classification of Emission-Line Galaxies with SDSS and WISE](https://doi.org/10.13140/RG.2.2.18744.71680) (ResearchGate, 2026)
 - [PSLS-based computations for exoplanet transits](https://doi.org/10.5281/zenodo.19715574) (dataset, Zenodo, 2026)
 
