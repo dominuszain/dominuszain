@@ -11,13 +11,23 @@ I work on computational astrophysics: thermonuclear reaction rates, emission-lin
 | [INFERNUS](https://github.com/dominuszain/ActGalNuc) | Classifies emission-line galaxies with BPT and WHAN diagnostics, cross-matches with WISE, and estimates electron density and black hole mass. | Python, Astropy, PyNeb |
 | [UMBRA](https://github.com/dominuszain/CompAstroBio) | Compares BLS and a ResNet-1D CNN for detecting exoplanet transits in simulated PLATO light curves. | Python, TensorFlow |
 | [ICARUS](https://github.com/dominuszain/ICARUS) | Maxwellian-averaged reaction rates for heavy nuclei. | Python, Fortran |
+
+## Numerical physics
+
+| Project | What it does | Stack |
+|---|---|---|
 | [NumericalMethods](https://github.com/dominuszain/NumericalMethods) | Numerical solutions to linear algebra, ODE and PDE problems, including Monte Carlo integration. | Fortran, Scilab |
-| [TimeDependentSchrodingerEquation](https://github.com/dominuszain/TimeDependentSchrodingerEquation) | Finite-difference solutions of the time-dependent Schrödinger equation for several potentials. | Scilab, Python |
+| [TimeDependentSchrodingerEquation](https://github.com/dominuszain/TimeDependentSchrodingerEquation) | Finite-difference and Crank–Nicolson solutions of the time-dependent Schrödinger equation. | Scilab, Python |
 | [TimeIndependentSchrodingerEquation](https://github.com/dominuszain/TimeIndependentSchrodingerEquation) | Numerical eigenstates for several potentials. | Fortran, Scilab |
 | [TwoBodyOrbitSimulation](https://github.com/dominuszain/TwoBodyOrbitSimulation) | Two-body orbits from Newtonian gravitation. | Scilab, Python |
 | [DoublePendulumSimulation](https://github.com/dominuszain/DoublePendulumSimulation) | Double-pendulum dynamics and animation. | Scilab, Python |
 | [TheoreticalPlasmaPhysics](https://github.com/dominuszain/TheoreticalPlasmaPhysics) | Charged-particle motion in electromagnetic fields via the Lorentz force. | Scilab |
-| [NeuralNetworks](https://github.com/dominuszain/NeuralNetworks) | Learning notebooks on neural networks. | Python, TensorFlow |
+
+## Learning
+
+| Project | What it does | Stack |
+|---|---|---|
+| [NeuralNetworks](https://github.com/dominuszain/NeuralNetworks) | Notebooks on abalone regression and nuclear cross-section residuals. | Python, TensorFlow |
 
 ## Tools
 
