@@ -47,7 +47,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=WwzP4rAA
 | 2026 | **Z. Ul Abideen**. "Deep Learning Detection of Exoplanet Transits in PSLS-Simulated PLATO Light Curves." ResearchGate. [DOI](https://doi.org/10.13140/RG.2.2.31127.74407) |
 | 2026 | **Z. Ul Abideen**. "A Review on Stellar and Interstellar Plasma." ResearchGate. [DOI](https://doi.org/10.13140/RG.2.2.21647.96164) |
 | 2025 | **Z. Ul Abideen**, K. Nabi, A. Kabir. "Refining the 91Zr(n,γ)92Zr Reaction Rate for Stellar Nucleosynthesis." ResearchGate. [DOI](https://doi.org/10.13140/RG.2.2.19525.92643) |
-| 2025 | **Z. Ul Abideen**, A. Kabir, T. Shabbir. "Re-Investigation of Cross Sections for (α,γ) Reactions on P-Nuclei 90Zr, 121Sb, 151Eu, and 162Er." Zenodo. [DOI](https://doi.org/10.5281/zenodo.14933865) |
+| 2024 | **Z. Ul Abideen**, A. Kabir, T. Shabbir. "Re-Investigation of Cross Sections for (α,γ) Reactions on P-Nuclei 90Zr, 121Sb, 151Eu, and 162Er." Zenodo. [DOI](https://doi.org/10.5281/zenodo.14933865) |
 
 ## Data
 
